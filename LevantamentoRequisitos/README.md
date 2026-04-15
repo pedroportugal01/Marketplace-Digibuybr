@@ -1,2 +1,10 @@
-Levantamento de Requisitos
-Esta pasta contém o arquivo PDF com a lista de requisitos funcionais (Rf), não funcionais (Rnf) e o quadro de análise de valor (Design Thinking) da Digibuybr.
+# 📂 Levantamento de Requisitos - Digibuybr
+
+Este diretório armazena os artefatos de engenharia de software da consultoria **SupersolucoesTI**.
+
+### 📄 Conteúdo:
+* **Lista de Requisitos:** Documentação contendo Requisitos Funcionais (Rf) e Não Funcionais (Rnf).
+* **Análise de Valor:** Quadro de Design Thinking focado em inovação e redução de custos.
+
+---
+_Responsável: Pedro_
