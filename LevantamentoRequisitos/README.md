@@ -1,3 +1,2 @@
-#Documentação de Requisitos
-
-Esta pasta contém o levantamento de requisitos funcionais e não funcionais, além do quadro de análise de valor para a Digibuybr
+Levantamento de Requisitos
+Esta pasta contém o arquivo PDF com a lista de requisitos funcionais (Rf), não funcionais (Rnf) e o quadro de análise de valor (Design Thinking) da Digibuybr.
