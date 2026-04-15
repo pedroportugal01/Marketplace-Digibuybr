@@ -1,6 +1,16 @@
-Projeto Marketplace Digibuybr
-Este repositório contém o gerenciamento integrado e a documentação técnica do sistema de marketplace.
+# 🚀 Projeto Marketplace Digibuybr
 
-Raiz: Contém informações gerais e orientações do projeto.
+Bem-vindo ao repositório oficial do sistema Digibuybr. Este projeto foca na estruturação de um marketplace escalável e seguro.
 
-LevantamentoRequisitos/: Pasta destinada aos documentos de engenharia e lista de requisitos.
+## 🏗️ Estrutura do Repositório
+
+* **`LevantamentoRequisitos/`**: Pasta contendo o PDF com a especificação técnica e análise de valor.
+* **`README.md`**: Guia de navegação do projeto.
+
+## 🛠️ Tecnologias e Metodologias
+- **Git/GitHub:** Controle de versão (Branch `develop`).
+- **Design Thinking:** Análise de valor do negócio.
+- **Engenharia de Requisitos:** Levantamento Rf e Rnf.
+
+---
+**Consultoria:** SupersolucoesTI
